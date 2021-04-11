@@ -4,7 +4,7 @@
  
 ## I'm FasTy!
  
-###… Im currently 17 yo.
+### … Im currently 17 yo.
  
  
 ## About me 

@@ -9,7 +9,7 @@
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kOnfigg)](https://github.com/kOnfigg)
-[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](FasTy#0001)
+[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white&link=)](FasTy#0001)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:fasty4eal@gmail.com)
  
 - Thanks for visiting. 

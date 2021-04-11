@@ -1,65 +1,18 @@
-![Logo of the project](https://images-ext-2.discordapp.net/external/tznUOGL2_1kdUsoBR5zdJ9UJHIEvAcNmWXSz4_G1LVI/https/image.prntscr.com/image/qBcaiC1nQRyAD30SNFtbWg.png?width=393&height=252)
+<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
  
-## Name_of_the_project
+# Welcome!
  
-... Description
+## I'm SEU NOME AQUI!
  
- 
-## Technology 
- 
-Here are the technologies used in this project.
- 
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
+… Insira suas descrições aqui!
  
  
-## Services Used
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](link_do_seu_perfil_no_github)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
  
-* Github
-* ...
+- Thanks for visiting. 
  
- 
-## Ruby Gems
-...
- 
-## Getting started
- 
-* To install gems:
->    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
-* To run the project:
->    $ rails s
- 
-## How to use
- 
-Here will be the images and descriptions. Principal content.
- 
- 
-## Features
- 
-  - Here will be the features.
- 
- 
-## Links
- 
-  - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      YOUR EMAIL directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
- 
- 
-## Versioning
- 
-1.0.0.0
- 
- 
-## Authors
- 
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
- 
- 
-Please follow github and join us!
-Thanks to visiting me and good coding!
+- Enjoy it!! o/

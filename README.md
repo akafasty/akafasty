@@ -4,11 +4,7 @@
  
 ## I'm FasTy!
  
-… Im currently 17 yo.
-_ Im lover of java-bukkit.
-_ I have 2 years of experience with minecraft plugins.
-_ I make plugins by order, just contact me on discord.
-_ I work at a store called aske.
+###… Im currently 17 yo.
  
  
 ## About me 

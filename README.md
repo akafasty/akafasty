@@ -2,14 +2,18 @@
  
 # Welcome!
  
-## I'm SEU NOME AQUI!
+## I'm FasTy!
  
-… Insira suas descrições aqui!
+… Im currently 17 yo.
+_ Im lover of java-bukkit.
+_ I have 2 years of experience with minecraft plugins.
+_ I make plugins by order, just contact me on discord.
+_ I work at a store called aske.
  
  
 ## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/kOnfigg)
-[![Discord Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](FasTy#0001)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kOnfigg)](https://github.com/kOnfigg)
+[![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](FasTy#0001)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:fasty4eal@gmail.com)
  
 - Thanks for visiting. 

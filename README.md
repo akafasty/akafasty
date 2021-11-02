@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/kOnfigg/kOnfigg/blob/main/Yung_Nobre_%E2%80%9CArtilheiro%E2%80%9D_ProdCaioPassos_Official_Video%20(1).gif">
+<img align="right" width="400" height="200" src="https://github.com/kOnfigg/kOnfigg/blob/main/Yung_Nobre_%E2%80%9CArtilheiro%E2%80%9D_ProdCaioPassos_Official_Video%20(1).gif">
  
 # Welcome!
  

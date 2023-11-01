@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akafasty&label=Profile%20views&color=0e75b6&style=flat" alt="akafasty" /> </p>
 
-- 🔭 Currently working on [Hodyus Network](hodyus.com.br)
+- 🔭 Currently working on [Kyzer](https://kyzer.club)
 
 - 👨‍💻 My projects are available at [github.com/akafasty](github.com/akafasty)
 

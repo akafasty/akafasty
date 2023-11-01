@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on [Kyzer](https://kyzer.club)
 
-- 👨‍💻 My projects are available at [github.com/akafasty](github.com/akafasty)
+- 👨‍💻 My projects are available at [github.com/akafasty](https://github.com/akafasty?tab=repositories)
 
 - 📫 How to reach me **fasty4eal@gmail.com**
 

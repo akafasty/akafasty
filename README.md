@@ -7,8 +7,6 @@
 
 - 👨‍💻 My projects are available at [github.com/akafasty](https://github.com/akafasty?tab=repositories)
 
-- 📫 How to reach me **fasty4eal@gmail.com**
-
 - ⚡ Fun fact **I started programming when I was 12 years old..**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/978806567795310642)](https://discord.com/users/978806567795310642)

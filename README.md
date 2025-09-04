@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Wendel Nunes</h1>
-<h3 align="center">A Java developer who often uses his tricks to develop minecraft plugins.</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Im a Java developer who often uses his tricks to develop minecraft plugins.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akafasty&label=Profile%20views&color=0e75b6&style=flat" alt="akafasty" /> </p>
 
